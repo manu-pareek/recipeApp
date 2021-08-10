@@ -1,8 +1,8 @@
 {
   
-  
+
   "name": "food-recepie-app",
-  "homepage": "https://manu-pareek.github.io/FoodRecipeApp",
+  "homepage": "https://manu-pareek.github.io/recipeApp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
