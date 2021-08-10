@@ -25,7 +25,7 @@ function App() {
 
     <Recipes recipes={recipes}/>
     </div>
-    <h2>Made with <i class="far fa-heart"></i> By: Manu Pareek</h2>
+    <h2>Made  By: Manu Pareek</h2>
     </div>
   );
 }
